@@ -36,7 +36,8 @@
  * Pathauto styling
  */
 #node-edit .form-item-path-alias label {
-  float: left;
+  float:left;
+  padding-right: 5px;
 }
 
 #node-edit .form-item-path-alias {
@@ -314,11 +315,6 @@
 #node-edit .container-inline-date .form-item-date-time .description {
   display: none;
 }
-
-/**
- * Media Styles
- */
-
 
 /**
  * Misc

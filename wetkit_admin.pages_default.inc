@@ -349,14 +349,7 @@ function wetkit_admin_default_page_manager_pages() {
     'pipeline' => 'standard',
     'css_id' => 'layout-library',
     'css' => '',
-    'contexts' => array(
-      0 => array(
-        'identifier' => 'WetKit Admin',
-        'keyword' => 'wetkit_admin',
-        'name' => 'string',
-        'id' => 1,
-      ),
-    ),
+    'contexts' => array(),
     'relationships' => array(),
     'body_classes_to_remove' => '',
     'body_classes_to_add' => '',
@@ -467,14 +460,7 @@ function wetkit_admin_default_page_manager_pages() {
     'pipeline' => 'standard',
     'css_id' => 'page-library',
     'css' => '',
-    'contexts' => array(
-      0 => array(
-        'identifier' => 'WetKit Admin',
-        'keyword' => 'wetkit_admin',
-        'name' => 'string',
-        'id' => 1,
-      ),
-    ),
+    'contexts' => array(),
     'relationships' => array(),
     'body_classes_to_remove' => '',
     'body_classes_to_add' => '',
@@ -629,14 +615,7 @@ function wetkit_admin_default_page_manager_pages() {
     'pipeline' => 'standard',
     'css_id' => 'pane-library',
     'css' => '',
-    'contexts' => array(
-      0 => array(
-        'identifier' => 'WetKit Admin',
-        'keyword' => 'wetkit_admin',
-        'name' => 'string',
-        'id' => 1,
-      ),
-    ),
+    'contexts' => array(),
     'relationships' => array(),
     'body_classes_to_remove' => '',
     'body_classes_to_add' => '',
