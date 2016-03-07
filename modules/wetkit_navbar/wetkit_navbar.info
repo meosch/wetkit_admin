@@ -1,8 +1,0 @@
-name = WetKit Navbar
-description = Provide functionality for Navbar
-core = 7.x
-package = WetKit
-dependencies[] = navbar
-dependencies[] = escape_admin
-dependencies[] = responsive_preview
-stylesheets[all][] = css/wetkit-navbar.css
